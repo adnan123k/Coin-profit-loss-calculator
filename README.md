@@ -1,16 +1,13 @@
 # crypto calculator
 
-A new Flutter project.
+A local freelancing project to calculate how much the vendor should get from someone who's trying to buy crypto currency
 
-## Getting Started
+## how to run it:
+* install flutter
+* install ide for flutter(ex:vsocde)
+* open folder in the ide and go to main.dart in lib file
+* debug the code wether on your emulator or your physical phone
 
-This project is a starting point for a Flutter application.
+## usage example:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="200" src="https://user-images.githubusercontent.com/55524560/225315857-7b3e4ff5-15d4-4283-8620-4d8f79c70a4f.png">
