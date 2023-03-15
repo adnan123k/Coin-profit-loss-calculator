@@ -1,4 +1,4 @@
-# bit_coin
+# crypto calculator
 
 A new Flutter project.
 
