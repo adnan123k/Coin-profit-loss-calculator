@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
     exitFee1 = btc * sellingCoinPrice * (exitFee / 100);
     diffrence = btc * sellingCoinPrice - investment - exitFee1;
     total = diffrence + investment;
-    diffrence = getNumber(diffrence, precision: 6);
+  
   }
 
   Widget input(double width, String label, int index, {bool isDollar = true}) {
@@ -106,8 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ]));
   }
 
-  double getNumber(double input, {int precision = 2}) => double.parse(
-      '$input'.substring(0, '$input'.indexOf('.') + precision + 1));
+
   @override
   Widget build(BuildContext context) {
     double width = MediaQuery.of(context).size.width;
