@@ -6,7 +6,7 @@ A local freelancing project to calculate how much the vendor should get from som
 * install flutter
 * install ide for flutter(ex:vsocde)
 * open folder in the ide and go to main.dart in lib file
-* debug the code wether on your emulator or your physical phone
+* debug the code either on your emulator or your physical phone
 
 ## usage example:
 
